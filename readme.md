@@ -1,6 +1,6 @@
 # Password Manager
 
-A simple terminal application to store, search, and generate passwords.
+A terminal application to store, search, and generate passwords.
 
 ## How to Run
 
